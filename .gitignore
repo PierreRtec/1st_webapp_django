@@ -5,3 +5,4 @@ __pycache__
 *.jpg
 *flake8-rapport
 *.json
+db.sqlite3
