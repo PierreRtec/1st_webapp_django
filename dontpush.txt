@@ -1,1 +1,0 @@
-SECRET_KEY = 'django-insecure-!&vax)q=$eg3riiz1sf_m!--f2j0+(@#y(1fn4nor-p(rleboh'
